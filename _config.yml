@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Geoffrey van Driessel
-  location: Amsterdam
+  location: Location
   social: Get in touch
   credits: Credits
 
@@ -46,10 +46,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Haarlem
+  - line: Amsterdam/Haarlem
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+education: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
