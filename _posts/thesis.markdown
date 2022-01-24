@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2021-06-30
-img: atari.jpg
+img: atari.png
 alt: image-alt
 project-date: June 2021
 client: Vrije Universiteit
