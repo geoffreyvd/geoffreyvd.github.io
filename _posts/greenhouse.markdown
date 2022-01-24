@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2021-07-17
-img: greenhouse.jpg
+img: cabin.jpg
 alt: image-alt
 project-date: November 2021
 client: Wageningen Universiteit & Tencent
 category: RL, plant science
-description: Challange for which i was responsible for training an automated greenhouse control agent
+description: Challange for which i was responsible for training an automated greenhouse control agent, wrote a small medium post about my main learning point; https://medium.com/@geoffrey.gvd/incorporating-domain-knowledge-in-a-drl-agent-c4b8fc75240b
 ---
