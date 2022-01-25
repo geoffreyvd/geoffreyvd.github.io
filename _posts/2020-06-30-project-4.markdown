@@ -7,5 +7,5 @@ alt: drone
 project-date: June 2020
 client: TNO
 category: Data Science
-description: Conducted my bachelor research project (thesis) on a novel position estimation algorithm for a drone based on a 2D lidar. 
+description: Researched a novel position estimation algorithm for a drone based on 2D lidar during my Bachelor thesis. 
 ---
