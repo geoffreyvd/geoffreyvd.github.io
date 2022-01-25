@@ -7,5 +7,5 @@ alt: image-alt
 project-date: June 2021
 client: Vrije Universiteit
 category: RL
-description: Conducted my master research project (thesis) on a novel transfer learning approach for model-based reinforcement learning agents. (<a href="https://arxiv.org/abs/2111.11525">NeurIPS 2021 workshoplink text</a>) 
+description: Conducted my master research project (thesis) on a novel transfer learning approach for model-based reinforcement learning agents. (<a href="https://arxiv.org/abs/2111.11525">NeurIPS 2021 workshop paper</a>) 
 ---
