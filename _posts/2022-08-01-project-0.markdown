@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 0
+date: 2022-08-01
+img: lidar.jpg
+alt: logistic optimization
+project-date: September 2022
+client: Tata steel
+category: Reinforcement learning
+description: Optimized the logistic process of the steel casting at Tata steel using a digital twin and reinorcement learning. 
+---
