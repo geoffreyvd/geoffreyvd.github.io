@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2022-08-01
-img: lidar.jpg
+img: tata.jpg
 alt: logistic optimization
 project-date: September 2022
 client: Tata steel

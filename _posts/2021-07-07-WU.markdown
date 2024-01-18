@@ -4,7 +4,7 @@ modal-id: 2
 date: 2021-07-17
 img: greenhouse.jpg
 alt: image-alt
-project-date: November 2021
+project-date: October 2021
 client: Wageningen Universiteit & Tencent
 category: Reinforcement Learning, plant science
 description: Challange for which I was responsible for training an automated greenhouse control agent (<a href="https://medium.com/@geoffrey.gvd/incorporating-domain-knowledge-in-a-drl-agent-c4b8fc75240b">a small medium post about my main learning points</a>) 
